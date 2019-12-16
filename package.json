@@ -1,0 +1,16 @@
+{
+  "name": "rollup-plugin-lry-coffeescript",
+  "version": "0.2.0",
+  "main": "dist/rollup-plugin-lry-coffeescript.cjs.js",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.4.1",
+    "rollup": "^1.27.13"
+  }
+}

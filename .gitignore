@@ -1,0 +1,8 @@
+.git/
+node_modules/
+dist/
+
+src/*.js
+yarn.lock
+yarn-error.log
+hilarryxu-rollup-plugin-coffee2-*.tgz
